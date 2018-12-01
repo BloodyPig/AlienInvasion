@@ -7,3 +7,9 @@
 - 完成简单Python项目的开发
 
 参考来源于《Python编程：从入门到实践》 项目中涉及的图像来自于[pixabay.com](https://github.com/BloodyPig/Alien/blob/master/www.pixabay.com)
+
+## 环境：
+- Win10 64bit
+- VScode 1.29.1
+- python v3.6.0 
+- pygame v1.9.4
