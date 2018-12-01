@@ -6,7 +6,7 @@
 - 学习Git与Github的同步方法
 - 完成简单Python项目的开发
 
-参考来源于《Python编程：从入门到实践》 项目中涉及的图像来自于[pixabay.com](www.pixabay.com)
+参考来源于《Python编程：从入门到实践》 项目中涉及的图像来自于[pixabay.com](https://pixabay.com/)
 
 ## 环境：
 - Win10 64bit
